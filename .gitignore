@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.env.*
+!.env.example
+staticfiles/
+media/
+
+# AWS deployment configuration
+ecs-task-definition.json
+ecs-secrets-policy.json
+ecs-task-trust-policy.json
