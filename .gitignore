@@ -12,3 +12,22 @@ media/
 ecs-task-definition.json
 ecs-secrets-policy.json
 ecs-task-trust-policy.json
+
+# Local AWS configuration and IAM policy files
+codebuild-logs-policy.json
+codebuild-project.json
+codebuild-project.json.backup
+codebuild-s3-artifacts-policy.json
+codebuild-trust-policy.json
+codepipeline-permissions-policy.json
+codepipeline-trust-policy.json
+django-ecs-pipeline-current.json
+django-ecs-pipeline-full.json
+django-ecs-pipeline-trigger.json
+django-ecs-pipeline-update.json
+django-ecs-pipeline.json
+
+# Local ECS configuration files
+ecs-secrets-policy.json
+ecs-task-definition.json
+ecs-task-trust-policy.json
